@@ -1,0 +1,3 @@
+[submodule "vendor/salesforcecookies"]
+	path = vendor/salesforcecookies
+	url = https://github.com/ligfx/salesforcecookies

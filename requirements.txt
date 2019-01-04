@@ -1,0 +1,7 @@
+simple_salesforce
+requests
+ujson
+-e ./vendor/salesforcecookies
+google-api-python-client
+oauth2client
+keyring
